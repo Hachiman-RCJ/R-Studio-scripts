@@ -11,6 +11,8 @@ Lab3ConfidenceintervalsandNormality: confidence intervals and assessing normalit
 
 RCJLab4Math314: Normal probability
 
+Lab5template(biostatistics): random binomial distribution and 95% confidence intervals
+
 RCJ_FPD6_Math314: Manipulating, sorting, and filterning tutoring attendance data.
 
 RCJ_Lab6_Math314: Hypothesis testing and computing the point estimate (phat), standard error, z-score and p-value
