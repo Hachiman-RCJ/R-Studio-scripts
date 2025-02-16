@@ -8,3 +8,5 @@ RCJLab2Math314: Cross tabulation analysis etc
 RCJLab3Math314: Binomial distribution calculations etc
 
 RCJLab4Math314: Normal probability
+
+RCJ_FinalProject_Math314_Fall2022: Manipulating, sorting, and filterning tutoring attendance data.
