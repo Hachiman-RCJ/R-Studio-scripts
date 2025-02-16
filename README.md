@@ -9,4 +9,4 @@ RCJLab3Math314: Binomial distribution calculations etc
 
 RCJLab4Math314: Normal probability
 
-RCJ_FinalProject_Math314_Fall2022: Manipulating, sorting, and filterning tutoring attendance data.
+RCJ_FPD6_Math314: Manipulating, sorting, and filterning tutoring attendance data.
