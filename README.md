@@ -7,6 +7,8 @@ RCJLab2Math314: Cross tabulation analysis etc
 
 RCJLab3Math314: Binomial distribution calculations etc
 
+Lab3ConfidenceintervalsandNormality: confidence intervals and assessing normality
+
 RCJLab4Math314: Normal probability
 
 RCJ_FPD6_Math314: Manipulating, sorting, and filterning tutoring attendance data.
