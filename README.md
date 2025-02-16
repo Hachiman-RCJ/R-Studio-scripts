@@ -10,3 +10,5 @@ RCJLab3Math314: Binomial distribution calculations etc
 RCJLab4Math314: Normal probability
 
 RCJ_FPD6_Math314: Manipulating, sorting, and filterning tutoring attendance data.
+
+RCJ_Lab7Code_Math314: t.test (two sample proportion test), and regression line
