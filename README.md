@@ -25,6 +25,6 @@ RCJ_Lab6_Math314: Hypothesis testing and computing the point estimate (phat), st
 
 RCJ_Lab7Code_Math314: t.test (two sample proportion test), and regression line
 
-Lab 9: Anderson darling test
+BIOL 213 Homework 9: Anderson darling test
 
-Lab 10 (biostatistics: one sample t.test
+BIOL 213 Homework 10 (biostatistics: one sample t.test
